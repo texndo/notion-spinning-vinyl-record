@@ -20,8 +20,8 @@ body {
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  background: radial-gradient(circle, #cfeaff 0%, #a7d4f4 60%, #8ac1e7 100%);
-  box-shadow: 0 0 25px rgba(173, 216, 230, 0.5);
+  background: radial-gradient(circle, #ffe6f0 0%, #fdd3e6 60%, #f9c1dc 100%);
+  box-shadow: 0 0 25px rgba(255, 182, 193, 0.4);
   position: relative;
   overflow: hidden;
   cursor: pointer;
