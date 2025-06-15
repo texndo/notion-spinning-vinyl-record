@@ -10,4 +10,3 @@ vinyl.addEventListener('click', () => {
     vinyl.classList.remove('spin');
   }
 });
-
